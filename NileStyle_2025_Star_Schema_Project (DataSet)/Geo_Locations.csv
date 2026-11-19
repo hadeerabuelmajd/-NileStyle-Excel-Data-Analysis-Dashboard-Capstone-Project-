@@ -1,0 +1,35 @@
+﻿LocationID,Governorate,City,RegionID
+LOC-001,Alexandria,Agamy,REG-02
+LOC-002,Alexandria,Miami,REG-02
+LOC-003,Alexandria,Montaza,REG-02
+LOC-004,Alexandria,Sidi Gaber,REG-02
+LOC-005,Alexandria,Smouha,REG-02
+LOC-006,Assiut,Assiut,REG-05
+LOC-007,Beheira,Damanhur,REG-03
+LOC-008,Cairo,Downtown,REG-01
+LOC-009,Cairo,Heliopolis,REG-01
+LOC-010,Cairo,Maadi,REG-01
+LOC-011,Cairo,Mokattam,REG-01
+LOC-012,Cairo,Nasr City,REG-01
+LOC-013,Cairo,New Cairo,REG-01
+LOC-014,Cairo,Shubra,REG-01
+LOC-015,Dakahlia,Mansoura,REG-03
+LOC-016,Dakahlia,Mit Ghamr,REG-03
+LOC-017,Dakahlia,Talkha,REG-03
+LOC-018,Gharbia,El Mahalla El Kubra,REG-03
+LOC-019,Gharbia,Tanta,REG-03
+LOC-020,Giza,6th of October,REG-01
+LOC-021,Giza,Dokki,REG-01
+LOC-022,Giza,Faisal,REG-01
+LOC-023,Giza,Haram,REG-01
+LOC-024,Giza,Mohandessin,REG-01
+LOC-025,Giza,Sheikh Zayed,REG-01
+LOC-026,Ismailia,Ismailia,REG-04
+LOC-027,Minya,Minya,REG-05
+LOC-028,Port Said,Port Said,REG-04
+LOC-029,Qalyubia,Banha,REG-01
+LOC-030,Qalyubia,Shubra El Kheima,REG-01
+LOC-031,Sharqia,10th of Ramadan,REG-03
+LOC-032,Sharqia,Zagazig,REG-03
+LOC-033,Sohag,Sohag,REG-05
+LOC-034,Suez,Suez,REG-04

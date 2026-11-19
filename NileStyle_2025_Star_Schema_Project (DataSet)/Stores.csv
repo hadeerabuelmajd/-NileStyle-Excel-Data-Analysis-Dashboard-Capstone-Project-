@@ -1,0 +1,18 @@
+﻿StoreID,StoreName,Governorate,City,StoreType,OpenedYear
+STR-001,Cairo - Nasr City,Cairo,Nasr City,Retail Branch,2019
+STR-002,Cairo - New Cairo,Cairo,New Cairo,Retail Branch,2024
+STR-003,Cairo - Maadi,Cairo,Maadi,Retail Branch,2023
+STR-004,Giza - Mohandessin,Giza,Mohandessin,Retail Branch,2024
+STR-005,Giza - October,Giza,6th of October,Retail Branch,2019
+STR-006,Alexandria - Smouha,Alexandria,Smouha,Retail Branch,2024
+STR-007,Alexandria - Montaza,Alexandria,Montaza,Retail Branch,2022
+STR-008,Mansoura - City Center,Dakahlia,Mansoura,Retail Branch,2018
+STR-009,Tanta - Downtown,Gharbia,Tanta,Retail Branch,2021
+STR-010,Zagazig - Downtown,Sharqia,Zagazig,Retail Branch,2022
+STR-011,Banha - Center,Qalyubia,Banha,Retail Branch,2023
+STR-012,Ismailia - Center,Ismailia,Ismailia,Retail Branch,2019
+STR-013,Assiut - Center,Assiut,Assiut,Retail Branch,2021
+STR-014,Cairo E-Commerce Hub,Cairo,Nasr City,Fulfillment Hub,2022
+STR-015,Alexandria E-Commerce Hub,Alexandria,Smouha,Fulfillment Hub,2021
+STR-016,Delta E-Commerce Hub,Dakahlia,Mansoura,Fulfillment Hub,2023
+STR-017,Upper Egypt E-Commerce Hub,Assiut,Assiut,Fulfillment Hub,2023

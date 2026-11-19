@@ -1,0 +1,4 @@
+﻿LoyaltyTier,TierRank,MembershipSegment,ServicePriority
+Standard,1,Entry,Standard
+Silver,2,Established,Priority
+Gold,3,Premium,VIP

@@ -1,0 +1,18 @@
+﻿StoreID,OperatingModel,FacilityAreaSqm,FacilityCapacityClass
+STR-001,Direct Retail,190,Medium Branch
+STR-002,Direct Retail,240,Large Branch
+STR-003,Direct Retail,175,Medium Branch
+STR-004,Direct Retail,215,Medium Branch
+STR-005,Direct Retail,290,Large Branch
+STR-006,Direct Retail,180,Medium Branch
+STR-007,Direct Retail,230,Medium Branch
+STR-008,Direct Retail,165,Medium Branch
+STR-009,Direct Retail,145,Compact Branch
+STR-010,Direct Retail,140,Compact Branch
+STR-011,Direct Retail,125,Compact Branch
+STR-012,Direct Retail,115,Compact Branch
+STR-013,Direct Retail,155,Medium Branch
+STR-014,Central Fulfillment,1950,Large Hub
+STR-015,Central Fulfillment,1320,Regional Hub
+STR-016,Central Fulfillment,1410,Regional Hub
+STR-017,Central Fulfillment,1050,Regional Hub

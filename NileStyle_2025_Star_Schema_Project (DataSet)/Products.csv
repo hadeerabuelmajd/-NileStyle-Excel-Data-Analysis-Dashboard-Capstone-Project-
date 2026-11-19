@@ -1,0 +1,316 @@
+﻿ProductID,ProductName,Category,Subcategory,Brand,Color,Size,ListPriceEGP,StandardUnitCostEGP
+PRD-0001,Ribbed Cotton Top - Burgundy / XL,Women,Tops,Luma Edit,Burgundy,XL,879,451.89
+PRD-0002,Ribbed Cotton Top - Stone / M,Women,Tops,Luma Edit,Stone,M,899,455.23
+PRD-0003,Ribbed Cotton Top - Sand / XXL,Women,Tops,Luma Edit,Sand,XXL,889,452.83
+PRD-0004,Ribbed Cotton Top - Black / M,Women,Tops,Luma Edit,Black,M,879,449.07
+PRD-0005,Relaxed Poplin Blouse - White / XXL,Women,Tops,Maison Vale,White,XXL,399,177.78
+PRD-0006,Relaxed Poplin Blouse - White / XL,Women,Tops,Maison Vale,White,XL,399,176.51
+PRD-0007,Relaxed Poplin Blouse - Stone / XS,Women,Tops,Maison Vale,Stone,XS,399,176.43
+PRD-0008,Relaxed Poplin Blouse - Olive / M,Women,Tops,Maison Vale,Olive,M,399,176.05
+PRD-0009,Relaxed Poplin Blouse - Sand / M,Women,Tops,Maison Vale,Sand,M,389,173.4
+PRD-0010,Relaxed Poplin Blouse - Grey / L,Women,Tops,Maison Vale,Grey,L,399,178.77
+PRD-0011,Relaxed Poplin Blouse - White / M,Women,Tops,Maison Vale,White,M,399,175.52
+PRD-0012,Essential Crew-Neck Tee - Cream / XL,Women,Tops,Maison Vale,Cream,XL,929,549.22
+PRD-0013,Essential Crew-Neck Tee - Sky Blue / L,Women,Tops,Maison Vale,Sky Blue,L,949,564.41
+PRD-0014,Essential Crew-Neck Tee - Stone / L,Women,Tops,Maison Vale,Stone,L,929,553.27
+PRD-0015,Essential Crew-Neck Tee - Burgundy / XXL,Women,Tops,Maison Vale,Burgundy,XXL,929,556.44
+PRD-0016,Essential Crew-Neck Tee - Grey / M,Women,Tops,Maison Vale,Grey,M,939,562.16
+PRD-0017,Essential Crew-Neck Tee - Cream / XS,Women,Tops,Maison Vale,Cream,XS,929,557.27
+PRD-0018,Essential Crew-Neck Tee - Beige / L,Women,Tops,Maison Vale,Beige,L,929,551.5
+PRD-0019,Linen Blend Shirt - Beige / S,Women,Tops,Luma Edit,Beige,S,599,255.51
+PRD-0020,Linen Blend Shirt - Sky Blue / XXL,Women,Tops,Luma Edit,Sky Blue,XXL,579,250.11
+PRD-0021,Linen Blend Shirt - Grey / S,Women,Tops,Luma Edit,Grey,S,589,255.02
+PRD-0022,Linen Blend Shirt - Beige / M,Women,Tops,Luma Edit,Beige,M,599,255.42
+PRD-0023,Linen Blend Shirt - Beige / XS,Women,Tops,Luma Edit,Beige,XS,579,250.27
+PRD-0024,Linen Blend Shirt - Chocolate / S,Women,Tops,Luma Edit,Chocolate,S,589,253.23
+PRD-0025,Linen Blend Shirt - Chocolate / XXL,Women,Tops,Luma Edit,Chocolate,XXL,589,250.32
+PRD-0026,Textured Knit Top - Sand / XXL,Women,Tops,Luma Edit,Sand,XXL,809,449.96
+PRD-0027,Textured Knit Top - Sky Blue / M,Women,Tops,Luma Edit,Sky Blue,M,819,448.52
+PRD-0028,Textured Knit Top - White / L,Women,Tops,Luma Edit,White,L,819,453.73
+PRD-0029,Textured Knit Top - Sand / L,Women,Tops,Luma Edit,Sand,L,829,461.09
+PRD-0030,Textured Knit Top - White / M,Women,Tops,Luma Edit,White,M,819,448.42
+PRD-0031,Midi Shirt Dress - Cream / L,Women,Dresses,Maison Vale,Cream,L,1869,1025.89
+PRD-0032,Midi Shirt Dress - Sky Blue / XS,Women,Dresses,Maison Vale,Sky Blue,XS,1899,1038.66
+PRD-0033,Midi Shirt Dress - Chocolate / M,Women,Dresses,Maison Vale,Chocolate,M,1889,1043.6
+PRD-0034,Midi Shirt Dress - Chocolate / L,Women,Dresses,Maison Vale,Chocolate,L,1889,1044.37
+PRD-0035,Midi Shirt Dress - Grey / XXL,Women,Dresses,Maison Vale,Grey,XXL,1869,1026.45
+PRD-0036,Wrap Midi Dress - Cream / L,Women,Dresses,Luma Edit,Cream,L,1539,693.65
+PRD-0037,Wrap Midi Dress - Stone / XL,Women,Dresses,Luma Edit,Stone,XL,1509,682.9
+PRD-0038,Wrap Midi Dress - Olive / L,Women,Dresses,Luma Edit,Olive,L,1499,682.71
+PRD-0039,Wrap Midi Dress - Burgundy / M,Women,Dresses,Luma Edit,Burgundy,M,1519,688.07
+PRD-0040,Wrap Midi Dress - Navy / L,Women,Dresses,Luma Edit,Navy,L,1509,691.54
+PRD-0041,Cotton Day Dress - Cream / XL,Women,Dresses,Atelier Nine,Cream,XL,1029,467.77
+PRD-0042,Cotton Day Dress - Sand / XXL,Women,Dresses,Atelier Nine,Sand,XXL,1019,467.26
+PRD-0043,Cotton Day Dress - Stone / M,Women,Dresses,Atelier Nine,Stone,M,1019,469.58
+PRD-0044,Cotton Day Dress - Grey / M,Women,Dresses,Atelier Nine,Grey,M,1029,472.03
+PRD-0045,Cotton Day Dress - Cream / M,Women,Dresses,Atelier Nine,Cream,M,1029,473.51
+PRD-0046,Cotton Day Dress - Grey / S,Women,Dresses,Atelier Nine,Grey,S,1009,461.21
+PRD-0047,Cotton Day Dress - Sky Blue / XS,Women,Dresses,Atelier Nine,Sky Blue,XS,1009,459.84
+PRD-0048,Cotton Day Dress - Cream / S,Women,Dresses,Atelier Nine,Cream,S,1019,468.3
+PRD-0049,Pleated Maxi Dress - Sky Blue / S,Women,Dresses,Maison Vale,Sky Blue,S,1489,759.14
+PRD-0050,Pleated Maxi Dress - White / XS,Women,Dresses,Maison Vale,White,XS,1499,768.71
+PRD-0051,Pleated Maxi Dress - Burgundy / XXL,Women,Dresses,Maison Vale,Burgundy,XXL,1529,780.22
+PRD-0052,Pleated Maxi Dress - Beige / XL,Women,Dresses,Maison Vale,Beige,XL,1519,785.07
+PRD-0053,Pleated Maxi Dress - Stone / L,Women,Dresses,Maison Vale,Stone,L,1529,778.86
+PRD-0054,Casual Jersey Dress - Beige / M,Women,Dresses,NileThread,Beige,M,1179,657.69
+PRD-0055,Casual Jersey Dress - White / L,Women,Dresses,NileThread,White,L,1179,655.57
+PRD-0056,Casual Jersey Dress - Olive / XL,Women,Dresses,NileThread,Olive,XL,1159,645.69
+PRD-0057,Casual Jersey Dress - Chocolate / XL,Women,Dresses,NileThread,Chocolate,XL,1169,650.86
+PRD-0058,Casual Jersey Dress - Burgundy / M,Women,Dresses,NileThread,Burgundy,M,1159,645.53
+PRD-0059,Casual Jersey Dress - Navy / L,Women,Dresses,NileThread,Navy,L,1179,653.06
+PRD-0060,Casual Jersey Dress - Sky Blue / XL,Women,Dresses,NileThread,Sky Blue,XL,1159,653.23
+PRD-0061,Straight-Leg Jeans - White / S,Women,Denim,Atelier Nine,White,S,959,386.92
+PRD-0062,Straight-Leg Jeans - Sky Blue / L,Women,Denim,Atelier Nine,Sky Blue,L,989,399.34
+PRD-0063,Straight-Leg Jeans - White / XXL,Women,Denim,Atelier Nine,White,XXL,969,385.29
+PRD-0064,Straight-Leg Jeans - Navy / XL,Women,Denim,Atelier Nine,Navy,XL,969,388.32
+PRD-0065,Straight-Leg Jeans - Chocolate / XL,Women,Denim,Atelier Nine,Chocolate,XL,979,391.81
+PRD-0066,Wide-Leg Denim - Black / XXL,Women,Denim,Atelier Nine,Black,XXL,1339,775.43
+PRD-0067,Wide-Leg Denim - Stone / XS,Women,Denim,Atelier Nine,Stone,XS,1339,776.06
+PRD-0068,Wide-Leg Denim - Black / S,Women,Denim,Atelier Nine,Black,S,1339,784.82
+PRD-0069,Wide-Leg Denim - Sand / XS,Women,Denim,Atelier Nine,Sand,XS,1309,770.95
+PRD-0070,High-Rise Jeans - White / M,Women,Denim,Luma Edit,White,M,1439,851.15
+PRD-0071,High-Rise Jeans - White / L,Women,Denim,Luma Edit,White,L,1419,831.01
+PRD-0072,High-Rise Jeans - Beige / S,Women,Denim,Luma Edit,Beige,S,1449,845.63
+PRD-0073,High-Rise Jeans - Navy / XL,Women,Denim,Luma Edit,Navy,XL,1409,831.43
+PRD-0074,High-Rise Jeans - Sky Blue / XXL,Women,Denim,Luma Edit,Sky Blue,XXL,1429,836.94
+PRD-0075,High-Rise Jeans - Grey / XXL,Women,Denim,Luma Edit,Grey,XXL,1429,837.09
+PRD-0076,Lightweight Cardigan - Stone / S,Women,Outerwear,Maison Vale,Stone,S,1479,777.07
+PRD-0077,Lightweight Cardigan - Olive / XS,Women,Outerwear,Maison Vale,Olive,XS,1509,788.51
+PRD-0078,Lightweight Cardigan - Navy / XS,Women,Outerwear,Maison Vale,Navy,XS,1499,788.38
+PRD-0079,Lightweight Cardigan - Burgundy / XS,Women,Outerwear,Maison Vale,Burgundy,XS,1489,789.48
+PRD-0080,Lightweight Cardigan - Cream / XS,Women,Outerwear,Maison Vale,Cream,XS,1489,775.36
+PRD-0081,Lightweight Cardigan - White / S,Women,Outerwear,Maison Vale,White,S,1509,799.36
+PRD-0082,Lightweight Cardigan - Sand / XS,Women,Outerwear,Maison Vale,Sand,XS,1509,797.98
+PRD-0083,Oversized Denim Jacket - Navy / M,Women,Outerwear,Atelier Nine,Navy,M,1589,781.68
+PRD-0084,Oversized Denim Jacket - Burgundy / L,Women,Outerwear,Atelier Nine,Burgundy,L,1609,787.53
+PRD-0085,Oversized Denim Jacket - Olive / XS,Women,Outerwear,Atelier Nine,Olive,XS,1599,786.04
+PRD-0086,Oversized Denim Jacket - White / L,Women,Outerwear,Atelier Nine,White,L,1599,781.02
+PRD-0087,Oversized Denim Jacket - Sky Blue / L,Women,Outerwear,Atelier Nine,Sky Blue,L,1609,787.91
+PRD-0088,Oversized Denim Jacket - Beige / XXL,Women,Outerwear,Atelier Nine,Beige,XXL,1609,786.22
+PRD-0089,Oversized Denim Jacket - Stone / L,Women,Outerwear,Atelier Nine,Stone,L,1609,789.79
+PRD-0090,Oversized Denim Jacket - Grey / XXL,Women,Outerwear,Atelier Nine,Grey,XXL,1609,786.99
+PRD-0091,Zip-Up Hoodie - Olive / XXL,Women,Outerwear,NileThread,Olive,XXL,1629,833.39
+PRD-0092,Zip-Up Hoodie - Black / XXL,Women,Outerwear,NileThread,Black,XXL,1659,859.51
+PRD-0093,Zip-Up Hoodie - Olive / S,Women,Outerwear,NileThread,Olive,S,1629,836.2
+PRD-0094,Zip-Up Hoodie - Stone / M,Women,Outerwear,NileThread,Stone,M,1639,854.71
+PRD-0095,Zip-Up Hoodie - Navy / XS,Women,Outerwear,NileThread,Navy,XS,1669,857.29
+PRD-0096,Zip-Up Hoodie - Cream / L,Women,Outerwear,NileThread,Cream,L,1669,857.31
+PRD-0097,Cotton Crew-Neck Tee - Black / L,Men,T-Shirts & Polos,Northline,Black,L,599,322.73
+PRD-0098,Cotton Crew-Neck Tee - Olive / M,Men,T-Shirts & Polos,Northline,Olive,M,599,327.79
+PRD-0099,Cotton Crew-Neck Tee - Sky Blue / XL,Men,T-Shirts & Polos,Northline,Sky Blue,XL,599,325.79
+PRD-0100,Cotton Crew-Neck Tee - Beige / M,Men,T-Shirts & Polos,Northline,Beige,M,599,327.18
+PRD-0101,Cotton Crew-Neck Tee - Stone / XL,Men,T-Shirts & Polos,Northline,Stone,XL,599,325.19
+PRD-0102,Cotton Crew-Neck Tee - Sand / S,Men,T-Shirts & Polos,Northline,Sand,S,599,322.88
+PRD-0103,Pique Polo Shirt - Stone / S,Men,T-Shirts & Polos,NileThread,Stone,S,509,279.43
+PRD-0104,Pique Polo Shirt - Stone / M,Men,T-Shirts & Polos,NileThread,Stone,M,519,283.61
+PRD-0105,Pique Polo Shirt - Sky Blue / S,Men,T-Shirts & Polos,NileThread,Sky Blue,S,519,280.81
+PRD-0106,Pique Polo Shirt - Chocolate / M,Men,T-Shirts & Polos,NileThread,Chocolate,M,509,276.23
+PRD-0107,Pique Polo Shirt - Sky Blue / M,Men,T-Shirts & Polos,NileThread,Sky Blue,M,509,279.84
+PRD-0108,Pique Polo Shirt - Burgundy / XL,Men,T-Shirts & Polos,NileThread,Burgundy,XL,509,280.21
+PRD-0109,Oversized Graphic Tee - Stone / M,Men,T-Shirts & Polos,Maison Vale,Stone,M,479,274.75
+PRD-0110,Oversized Graphic Tee - Stone / XXL,Men,T-Shirts & Polos,Maison Vale,Stone,XXL,479,279.3
+PRD-0111,Oversized Graphic Tee - White / XS,Men,T-Shirts & Polos,Maison Vale,White,XS,479,278.33
+PRD-0112,Oversized Graphic Tee - White / L,Men,T-Shirts & Polos,Maison Vale,White,L,479,276.03
+PRD-0113,Oversized Graphic Tee - Black / S,Men,T-Shirts & Polos,Maison Vale,Black,S,479,278.66
+PRD-0114,Oxford Button-Down Shirt - Burgundy / M,Men,Shirts,Axis Studio,Burgundy,M,959,467.4
+PRD-0115,Oxford Button-Down Shirt - Sand / S,Men,Shirts,Axis Studio,Sand,S,979,478.73
+PRD-0116,Oxford Button-Down Shirt - Beige / M,Men,Shirts,Axis Studio,Beige,M,979,474.33
+PRD-0117,Oxford Button-Down Shirt - Chocolate / XXL,Men,Shirts,Axis Studio,Chocolate,XXL,979,473.88
+PRD-0118,Oxford Button-Down Shirt - Chocolate / M,Men,Shirts,Axis Studio,Chocolate,M,979,479.65
+PRD-0119,Linen Blend Shirt - White / XXL,Men,Shirts,Maison Vale,White,XXL,1019,561.33
+PRD-0120,Linen Blend Shirt - Burgundy / M,Men,Shirts,Maison Vale,Burgundy,M,999,543.08
+PRD-0121,Linen Blend Shirt - Sand / XS,Men,Shirts,Maison Vale,Sand,XS,1009,548.56
+PRD-0122,Linen Blend Shirt - White / M,Men,Shirts,Maison Vale,White,M,1009,550.77
+PRD-0123,Linen Blend Shirt - Cream / XS,Men,Shirts,Maison Vale,Cream,XS,1009,552.18
+PRD-0124,Linen Blend Shirt - Burgundy / XL,Men,Shirts,Maison Vale,Burgundy,XL,999,542.59
+PRD-0125,Casual Check Shirt - Sky Blue / XS,Men,Shirts,Maison Vale,Sky Blue,XS,1219,550.0
+PRD-0126,Casual Check Shirt - Cream / M,Men,Shirts,Maison Vale,Cream,M,1219,545.49
+PRD-0127,Casual Check Shirt - Beige / S,Men,Shirts,Maison Vale,Beige,S,1229,551.49
+PRD-0128,Casual Check Shirt - Navy / XL,Men,Shirts,Maison Vale,Navy,XL,1239,557.94
+PRD-0129,Casual Check Shirt - Stone / XXL,Men,Shirts,Maison Vale,Stone,XXL,1219,543.69
+PRD-0130,Casual Check Shirt - Navy / M,Men,Shirts,Maison Vale,Navy,M,1239,559.56
+PRD-0131,Casual Check Shirt - White / XXL,Men,Shirts,Maison Vale,White,XXL,1219,545.93
+PRD-0132,Slim Chino Trousers - Stone / XXL,Men,Bottoms,Maison Vale,Stone,XXL,889,408.83
+PRD-0133,Slim Chino Trousers - Navy / S,Men,Bottoms,Maison Vale,Navy,S,879,398.9
+PRD-0134,Slim Chino Trousers - Cream / XXL,Men,Bottoms,Maison Vale,Cream,XXL,879,398.75
+PRD-0135,Slim Chino Trousers - Navy / XL,Men,Bottoms,Maison Vale,Navy,XL,879,399.47
+PRD-0136,Slim Chino Trousers - Cream / S,Men,Bottoms,Maison Vale,Cream,S,889,401.89
+PRD-0137,Slim Chino Trousers - Sky Blue / M,Men,Bottoms,Maison Vale,Sky Blue,M,889,403.77
+PRD-0138,Slim Chino Trousers - Chocolate / XL,Men,Bottoms,Maison Vale,Chocolate,XL,879,400.5
+PRD-0139,Slim Chino Trousers - Chocolate / XXL,Men,Bottoms,Maison Vale,Chocolate,XXL,889,407.89
+PRD-0140,Relaxed Denim Jeans - Beige / XL,Men,Bottoms,Northline,Beige,XL,1129,475.05
+PRD-0141,Relaxed Denim Jeans - Burgundy / S,Men,Bottoms,Northline,Burgundy,S,1129,480.14
+PRD-0142,Relaxed Denim Jeans - Sand / S,Men,Bottoms,Northline,Sand,S,1149,481.4
+PRD-0143,Relaxed Denim Jeans - Burgundy / L,Men,Bottoms,Northline,Burgundy,L,1149,487.71
+PRD-0144,Relaxed Denim Jeans - Sand / XXL,Men,Bottoms,Northline,Sand,XXL,1149,488.3
+PRD-0145,Cotton Jogger Pants - Black / M,Men,Bottoms,Northline,Black,M,1229,615.49
+PRD-0146,Cotton Jogger Pants - Sky Blue / S,Men,Bottoms,Northline,Sky Blue,S,1229,612.23
+PRD-0147,Cotton Jogger Pants - Grey / S,Men,Bottoms,Northline,Grey,S,1239,620.53
+PRD-0148,Cotton Jogger Pants - Beige / XXL,Men,Bottoms,Northline,Beige,XXL,1239,626.53
+PRD-0149,Cotton Jogger Pants - Beige / S,Men,Bottoms,Northline,Beige,S,1239,622.61
+PRD-0150,Zip-Up Hoodie - Grey / XXL,Men,Outerwear,Northline,Grey,XXL,2049,1158.94
+PRD-0151,Zip-Up Hoodie - Cream / XXL,Men,Outerwear,Northline,Cream,XXL,2069,1171.3
+PRD-0152,Zip-Up Hoodie - Stone / L,Men,Outerwear,Northline,Stone,L,2049,1156.79
+PRD-0153,Zip-Up Hoodie - Grey / S,Men,Outerwear,Northline,Grey,S,2069,1168.12
+PRD-0154,Zip-Up Hoodie - Sky Blue / L,Men,Outerwear,Northline,Sky Blue,L,2069,1184.12
+PRD-0155,Zip-Up Hoodie - Chocolate / XL,Men,Outerwear,Northline,Chocolate,XL,2079,1176.5
+PRD-0156,Zip-Up Hoodie - Sand / L,Men,Outerwear,Northline,Sand,L,2069,1180.59
+PRD-0157,Zip-Up Hoodie - Burgundy / XS,Men,Outerwear,Northline,Burgundy,XS,2079,1181.8
+PRD-0158,Bomber Jacket - Sky Blue / L,Men,Outerwear,Axis Studio,Sky Blue,L,2069,1018.09
+PRD-0159,Bomber Jacket - White / XS,Men,Outerwear,Axis Studio,White,XS,2039,1002.43
+PRD-0160,Bomber Jacket - Cream / XXL,Men,Outerwear,Axis Studio,Cream,XXL,2019,995.45
+PRD-0161,Bomber Jacket - Burgundy / S,Men,Outerwear,Axis Studio,Burgundy,S,2029,1006.7
+PRD-0162,Lightweight Overshirt - Grey / XXL,Men,Outerwear,Maison Vale,Grey,XXL,1579,797.91
+PRD-0163,Lightweight Overshirt - Chocolate / XS,Men,Outerwear,Maison Vale,Chocolate,XS,1589,809.83
+PRD-0164,Lightweight Overshirt - Sand / M,Men,Outerwear,Maison Vale,Sand,M,1589,810.75
+PRD-0165,Lightweight Overshirt - Navy / S,Men,Outerwear,Maison Vale,Navy,S,1579,805.24
+PRD-0166,Lightweight Overshirt - Sky Blue / M,Men,Outerwear,Maison Vale,Sky Blue,M,1609,818.8
+PRD-0167,Lightweight Overshirt - Black / M,Men,Outerwear,Maison Vale,Black,M,1619,819.32
+PRD-0168,Lightweight Overshirt - Burgundy / XS,Men,Outerwear,Maison Vale,Burgundy,XS,1619,817.63
+PRD-0169,Lightweight Overshirt - Stone / XXL,Men,Outerwear,Maison Vale,Stone,XXL,1609,823.71
+PRD-0170,Classic Low-Top Sneakers - Sky Blue / 42,Footwear,Sneakers,StepLane,Sky Blue,42,1189,539.7
+PRD-0171,Classic Low-Top Sneakers - Cream / 38,Footwear,Sneakers,StepLane,Cream,38,1209,544.19
+PRD-0172,Classic Low-Top Sneakers - Stone / 40,Footwear,Sneakers,StepLane,Stone,40,1219,546.25
+PRD-0173,Classic Low-Top Sneakers - Navy / 44,Footwear,Sneakers,StepLane,Navy,44,1209,545.36
+PRD-0174,Classic Low-Top Sneakers - Beige / 40,Footwear,Sneakers,StepLane,Beige,40,1209,545.31
+PRD-0175,Classic Low-Top Sneakers - Stone / 43,Footwear,Sneakers,StepLane,Stone,43,1209,550.83
+PRD-0176,Classic Low-Top Sneakers - Chocolate / 44,Footwear,Sneakers,StepLane,Chocolate,44,1189,533.14
+PRD-0177,Classic Low-Top Sneakers - Chocolate / 38,Footwear,Sneakers,StepLane,Chocolate,38,1219,551.15
+PRD-0178,Everyday Canvas Sneakers - Grey / 43,Footwear,Sneakers,Northline,Grey,43,2609,1433.26
+PRD-0179,Everyday Canvas Sneakers - Navy / 43,Footwear,Sneakers,Northline,Navy,43,2549,1411.58
+PRD-0180,Everyday Canvas Sneakers - Olive / 38,Footwear,Sneakers,Northline,Olive,38,2599,1442.99
+PRD-0181,Everyday Canvas Sneakers - Olive / 40,Footwear,Sneakers,Northline,Olive,40,2589,1449.15
+PRD-0182,Everyday Canvas Sneakers - Chocolate / 44,Footwear,Sneakers,Northline,Chocolate,44,2589,1430.14
+PRD-0183,Everyday Canvas Sneakers - White / 41,Footwear,Sneakers,Northline,White,41,2559,1419.85
+PRD-0184,Everyday Canvas Sneakers - Sand / 43,Footwear,Sneakers,Northline,Sand,43,2589,1424.56
+PRD-0185,Running-Inspired Sneakers - White / 40,Footwear,Sneakers,Axis Studio,White,40,1369,796.43
+PRD-0186,Running-Inspired Sneakers - Sand / 45,Footwear,Sneakers,Axis Studio,Sand,45,1369,806.24
+PRD-0187,Running-Inspired Sneakers - Cream / 45,Footwear,Sneakers,Axis Studio,Cream,45,1329,774.19
+PRD-0188,Running-Inspired Sneakers - Navy / 40,Footwear,Sneakers,Axis Studio,Navy,40,1369,805.89
+PRD-0189,Running-Inspired Sneakers - Olive / 39,Footwear,Sneakers,Axis Studio,Olive,39,1349,793.84
+PRD-0190,Everyday Loafers - White / 42,Footwear,Casual Shoes,StepLane,White,42,1379,823.89
+PRD-0191,Everyday Loafers - Black / 42,Footwear,Casual Shoes,StepLane,Black,42,1389,833.76
+PRD-0192,Everyday Loafers - Navy / 41,Footwear,Casual Shoes,StepLane,Navy,41,1359,813.32
+PRD-0193,Everyday Loafers - Cream / 39,Footwear,Casual Shoes,StepLane,Cream,39,1389,824.12
+PRD-0194,Everyday Loafers - Stone / 44,Footwear,Casual Shoes,StepLane,Stone,44,1379,822.32
+PRD-0195,Everyday Loafers - Sand / 44,Footwear,Casual Shoes,StepLane,Sand,44,1379,816.79
+PRD-0196,Everyday Loafers - Chocolate / 41,Footwear,Casual Shoes,StepLane,Chocolate,41,1369,823.17
+PRD-0197,Everyday Loafers - Olive / 44,Footwear,Casual Shoes,StepLane,Olive,44,1379,827.28
+PRD-0198,Comfort Slip-On Shoes - Olive / 41,Footwear,Casual Shoes,Axis Studio,Olive,41,1769,1028.19
+PRD-0199,Comfort Slip-On Shoes - Cream / 44,Footwear,Casual Shoes,Axis Studio,Cream,44,1769,1025.18
+PRD-0200,Comfort Slip-On Shoes - Chocolate / 38,Footwear,Casual Shoes,Axis Studio,Chocolate,38,1729,1000.65
+PRD-0201,Comfort Slip-On Shoes - White / 41,Footwear,Casual Shoes,Axis Studio,White,41,1719,999.65
+PRD-0202,Comfort Slip-On Shoes - Grey / 45,Footwear,Casual Shoes,Axis Studio,Grey,45,1769,1023.37
+PRD-0203,Comfort Slip-On Shoes - Sand / 39,Footwear,Casual Shoes,Axis Studio,Sand,39,1739,1006.74
+PRD-0204,Flat Sandals - Grey / 42,Footwear,Casual Shoes,StepLane,Grey,42,1149,609.16
+PRD-0205,Flat Sandals - Burgundy / 45,Footwear,Casual Shoes,StepLane,Burgundy,45,1149,605.63
+PRD-0206,Flat Sandals - Stone / 44,Footwear,Casual Shoes,StepLane,Stone,44,1149,610.91
+PRD-0207,Flat Sandals - Olive / 38,Footwear,Casual Shoes,StepLane,Olive,38,1149,615.06
+PRD-0208,Flat Sandals - Stone / 39,Footwear,Casual Shoes,StepLane,Stone,39,1159,618.74
+PRD-0209,Performance Training Tee - Stone / S,Activewear,Training Tops,StepLane,Stone,S,799,327.46
+PRD-0210,Performance Training Tee - Black / XXL,Activewear,Training Tops,StepLane,Black,XXL,799,326.19
+PRD-0211,Performance Training Tee - Stone / L,Activewear,Training Tops,StepLane,Stone,L,789,322.01
+PRD-0212,Performance Training Tee - Beige / S,Activewear,Training Tops,StepLane,Beige,S,789,321.82
+PRD-0213,Performance Training Tee - Beige / XL,Activewear,Training Tops,StepLane,Beige,XL,799,325.94
+PRD-0214,Performance Training Tee - White / S,Activewear,Training Tops,StepLane,White,S,789,324.87
+PRD-0215,Breathable Gym Top - Beige / L,Activewear,Training Tops,MoveCore,Beige,L,759,394.47
+PRD-0216,Breathable Gym Top - Sky Blue / XXL,Activewear,Training Tops,MoveCore,Sky Blue,XXL,749,385.46
+PRD-0217,Breathable Gym Top - Olive / XL,Activewear,Training Tops,MoveCore,Olive,XL,739,385.46
+PRD-0218,Breathable Gym Top - Black / XXL,Activewear,Training Tops,MoveCore,Black,XXL,759,393.69
+PRD-0219,Breathable Gym Top - Olive / XXL,Activewear,Training Tops,MoveCore,Olive,XXL,749,390.3
+PRD-0220,Active Crop Top - Olive / L,Activewear,Training Tops,MoveCore,Olive,L,589,258.56
+PRD-0221,Active Crop Top - Olive / S,Activewear,Training Tops,MoveCore,Olive,S,569,250.35
+PRD-0222,Active Crop Top - Sand / XXL,Activewear,Training Tops,MoveCore,Sand,XXL,589,255.48
+PRD-0223,Active Crop Top - Navy / M,Activewear,Training Tops,MoveCore,Navy,M,579,251.28
+PRD-0224,Active Crop Top - Grey / S,Activewear,Training Tops,MoveCore,Grey,S,579,251.52
+PRD-0225,Active Crop Top - Black / XL,Activewear,Training Tops,MoveCore,Black,XL,579,253.53
+PRD-0226,Active Crop Top - Beige / XXL,Activewear,Training Tops,MoveCore,Beige,XXL,569,248.33
+PRD-0227,Stretch Training Leggings - Sand / M,Activewear,Training Bottoms,Axis Studio,Sand,M,959,553.36
+PRD-0228,Stretch Training Leggings - Grey / M,Activewear,Training Bottoms,Axis Studio,Grey,M,969,556.69
+PRD-0229,Stretch Training Leggings - Olive / M,Activewear,Training Bottoms,Axis Studio,Olive,M,959,545.88
+PRD-0230,Stretch Training Leggings - Chocolate / M,Activewear,Training Bottoms,Axis Studio,Chocolate,M,959,549.38
+PRD-0231,Lightweight Track Pants - Black / M,Activewear,Training Bottoms,StepLane,Black,M,769,382.9
+PRD-0232,Lightweight Track Pants - Chocolate / M,Activewear,Training Bottoms,StepLane,Chocolate,M,779,386.72
+PRD-0233,Lightweight Track Pants - Beige / XL,Activewear,Training Bottoms,StepLane,Beige,XL,789,394.48
+PRD-0234,Lightweight Track Pants - Navy / L,Activewear,Training Bottoms,StepLane,Navy,L,769,382.57
+PRD-0235,Lightweight Track Pants - Burgundy / M,Activewear,Training Bottoms,StepLane,Burgundy,M,769,380.47
+PRD-0236,Lightweight Track Pants - Stone / L,Activewear,Training Bottoms,StepLane,Stone,L,779,388.72
+PRD-0237,Tapered Training Joggers - Beige / M,Activewear,Training Bottoms,StepLane,Beige,M,819,335.65
+PRD-0238,Tapered Training Joggers - Black / L,Activewear,Training Bottoms,StepLane,Black,L,809,331.44
+PRD-0239,Tapered Training Joggers - Burgundy / L,Activewear,Training Bottoms,StepLane,Burgundy,L,819,335.07
+PRD-0240,Tapered Training Joggers - White / XS,Activewear,Training Bottoms,StepLane,White,XS,819,334.71
+PRD-0241,Tapered Training Joggers - Beige / L,Activewear,Training Bottoms,StepLane,Beige,L,819,337.95
+PRD-0242,Tapered Training Joggers - Chocolate / XS,Activewear,Training Bottoms,StepLane,Chocolate,XS,809,330.88
+PRD-0243,Tapered Training Joggers - Navy / S,Activewear,Training Bottoms,StepLane,Navy,S,819,335.52
+PRD-0244,Tapered Training Joggers - Olive / M,Activewear,Training Bottoms,StepLane,Olive,M,809,331.94
+PRD-0245,Canvas Cap - Burgundy / One Size,Accessories,Everyday Accessories,Atelier Nine,Burgundy,One Size,769,372.97
+PRD-0246,Canvas Cap - Navy / One Size,Accessories,Everyday Accessories,Atelier Nine,Navy,One Size,749,366.23
+PRD-0247,Canvas Cap - Grey / One Size,Accessories,Everyday Accessories,Atelier Nine,Grey,One Size,769,375.27
+PRD-0248,Canvas Cap - Beige / One Size,Accessories,Everyday Accessories,Atelier Nine,Beige,One Size,759,370.38
+PRD-0249,Canvas Cap - Black / One Size,Accessories,Everyday Accessories,Atelier Nine,Black,One Size,769,377.92
+PRD-0250,Woven Belt - Grey / One Size,Accessories,Everyday Accessories,Luma Edit,Grey,One Size,299,139.68
+PRD-0251,Woven Belt - Navy / One Size,Accessories,Everyday Accessories,Luma Edit,Navy,One Size,299,140.46
+PRD-0252,Woven Belt - Chocolate / One Size,Accessories,Everyday Accessories,Luma Edit,Chocolate,One Size,289,134.15
+PRD-0253,Woven Belt - Olive / One Size,Accessories,Everyday Accessories,Luma Edit,Olive,One Size,299,140.1
+PRD-0254,Woven Belt - Black / One Size,Accessories,Everyday Accessories,Luma Edit,Black,One Size,299,139.61
+PRD-0255,Woven Belt - Burgundy / One Size,Accessories,Everyday Accessories,Luma Edit,Burgundy,One Size,299,139.02
+PRD-0256,Woven Belt - Sand / One Size,Accessories,Everyday Accessories,Luma Edit,Sand,One Size,299,139.08
+PRD-0257,Cotton Socks - 3 Pack - Olive / One Size,Accessories,Everyday Accessories,Luma Edit,Olive,One Size,539,234.06
+PRD-0258,Cotton Socks - 3 Pack - Sky Blue / One Size,Accessories,Everyday Accessories,Luma Edit,Sky Blue,One Size,549,237.58
+PRD-0259,Cotton Socks - 3 Pack - Navy / One Size,Accessories,Everyday Accessories,Luma Edit,Navy,One Size,549,236.32
+PRD-0260,Cotton Socks - 3 Pack - Cream / One Size,Accessories,Everyday Accessories,Luma Edit,Cream,One Size,539,232.19
+PRD-0261,Everyday Sunglasses - Olive / One Size,Accessories,Everyday Accessories,NileThread,Olive,One Size,599,343.42
+PRD-0262,Everyday Sunglasses - Burgundy / One Size,Accessories,Everyday Accessories,NileThread,Burgundy,One Size,609,348.11
+PRD-0263,Everyday Sunglasses - Black / One Size,Accessories,Everyday Accessories,NileThread,Black,One Size,609,346.82
+PRD-0264,Everyday Sunglasses - Cream / One Size,Accessories,Everyday Accessories,NileThread,Cream,One Size,609,348.16
+PRD-0265,Everyday Sunglasses - Sky Blue / One Size,Accessories,Everyday Accessories,NileThread,Sky Blue,One Size,599,342.8
+PRD-0266,Light Scarf - Burgundy / One Size,Accessories,Everyday Accessories,Atelier Nine,Burgundy,One Size,719,388.12
+PRD-0267,Light Scarf - White / One Size,Accessories,Everyday Accessories,Atelier Nine,White,One Size,709,380.62
+PRD-0268,Light Scarf - Grey / One Size,Accessories,Everyday Accessories,Atelier Nine,Grey,One Size,709,383.07
+PRD-0269,Light Scarf - Navy / One Size,Accessories,Everyday Accessories,Atelier Nine,Navy,One Size,709,379.36
+PRD-0270,Light Scarf - Stone / One Size,Accessories,Everyday Accessories,Atelier Nine,Stone,One Size,699,377.34
+PRD-0271,Structured Tote Bag - Grey / One Size,Bags,Daily Bags,Luma Edit,Grey,One Size,899,492.07
+PRD-0272,Structured Tote Bag - Beige / One Size,Bags,Daily Bags,Luma Edit,Beige,One Size,879,477.06
+PRD-0273,Structured Tote Bag - Stone / One Size,Bags,Daily Bags,Luma Edit,Stone,One Size,879,474.04
+PRD-0274,Structured Tote Bag - Chocolate / One Size,Bags,Daily Bags,Luma Edit,Chocolate,One Size,889,479.44
+PRD-0275,Structured Tote Bag - Burgundy / One Size,Bags,Daily Bags,Luma Edit,Burgundy,One Size,879,480.29
+PRD-0276,Structured Tote Bag - Sand / One Size,Bags,Daily Bags,Luma Edit,Sand,One Size,899,490.2
+PRD-0277,Structured Tote Bag - Navy / One Size,Bags,Daily Bags,Luma Edit,Navy,One Size,889,481.89
+PRD-0278,Crossbody Mini Bag - White / One Size,Bags,Daily Bags,Luma Edit,White,One Size,1129,463.52
+PRD-0279,Crossbody Mini Bag - Beige / One Size,Bags,Daily Bags,Luma Edit,Beige,One Size,1129,463.71
+PRD-0280,Crossbody Mini Bag - Sand / One Size,Bags,Daily Bags,Luma Edit,Sand,One Size,1119,458.59
+PRD-0281,Crossbody Mini Bag - Sky Blue / One Size,Bags,Daily Bags,Luma Edit,Sky Blue,One Size,1129,462.97
+PRD-0282,Compact City Backpack - Sky Blue / One Size,Bags,Daily Bags,Northline,Sky Blue,One Size,899,453.84
+PRD-0283,Compact City Backpack - White / One Size,Bags,Daily Bags,Northline,White,One Size,899,451.96
+PRD-0284,Compact City Backpack - Olive / One Size,Bags,Daily Bags,Northline,Olive,One Size,889,447.82
+PRD-0285,Compact City Backpack - Navy / One Size,Bags,Daily Bags,Northline,Navy,One Size,899,456.51
+PRD-0286,Compact City Backpack - Cream / One Size,Bags,Daily Bags,Northline,Cream,One Size,899,451.77
+PRD-0287,Compact City Backpack - Grey / One Size,Bags,Daily Bags,Northline,Grey,One Size,889,448.11
+PRD-0288,Compact City Backpack - Burgundy / One Size,Bags,Daily Bags,Northline,Burgundy,One Size,899,456.03
+PRD-0289,Weekend Duffel Bag - Black / One Size,Bags,Daily Bags,Northline,Black,One Size,949,423.22
+PRD-0290,Weekend Duffel Bag - Navy / One Size,Bags,Daily Bags,Northline,Navy,One Size,949,422.71
+PRD-0291,Weekend Duffel Bag - Stone / One Size,Bags,Daily Bags,Northline,Stone,One Size,949,422.91
+PRD-0292,Weekend Duffel Bag - Chocolate / One Size,Bags,Daily Bags,Northline,Chocolate,One Size,969,437.63
+PRD-0293,Weekend Duffel Bag - White / One Size,Bags,Daily Bags,Northline,White,One Size,969,432.02
+PRD-0294,Weekend Duffel Bag - Sky Blue / One Size,Bags,Daily Bags,Northline,Sky Blue,One Size,959,427.29
+PRD-0295,Kids Cotton Tee - Black / 8-9Y,Kidswear,Kids Essentials,NileThread,Black,8-9Y,349,201.27
+PRD-0296,Kids Cotton Tee - Chocolate / 12-13Y,Kidswear,Kids Essentials,NileThread,Chocolate,12-13Y,339,195.99
+PRD-0297,Kids Cotton Tee - Burgundy / 4-5Y,Kidswear,Kids Essentials,NileThread,Burgundy,4-5Y,349,201.26
+PRD-0298,Kids Cotton Tee - Sky Blue / 10-11Y,Kidswear,Kids Essentials,NileThread,Sky Blue,10-11Y,349,199.96
+PRD-0299,Kids Denim Pants - Grey / 10-11Y,Kidswear,Kids Essentials,NileThread,Grey,10-11Y,459,198.06
+PRD-0300,Kids Denim Pants - Olive / 8-9Y,Kidswear,Kids Essentials,NileThread,Olive,8-9Y,459,199.67
+PRD-0301,Kids Denim Pants - Cream / 4-5Y,Kidswear,Kids Essentials,NileThread,Cream,4-5Y,459,198.86
+PRD-0302,Kids Denim Pants - Beige / 10-11Y,Kidswear,Kids Essentials,NileThread,Beige,10-11Y,459,201.29
+PRD-0303,Kids School Hoodie - White / 4-5Y,Kidswear,Kids Essentials,Luma Edit,White,4-5Y,699,308.69
+PRD-0304,Kids School Hoodie - White / 12-13Y,Kidswear,Kids Essentials,Luma Edit,White,12-13Y,709,312.82
+PRD-0305,Kids School Hoodie - Beige / 8-9Y,Kidswear,Kids Essentials,Luma Edit,Beige,8-9Y,689,302.28
+PRD-0306,Kids School Hoodie - Grey / 8-9Y,Kidswear,Kids Essentials,Luma Edit,Grey,8-9Y,699,306.31
+PRD-0307,Kids School Hoodie - Chocolate / 6-7Y,Kidswear,Kids Essentials,Luma Edit,Chocolate,6-7Y,689,304.1
+PRD-0308,Kids School Hoodie - Black / 4-5Y,Kidswear,Kids Essentials,Luma Edit,Black,4-5Y,699,307.23
+PRD-0309,Kids School Hoodie - Burgundy / 8-9Y,Kidswear,Kids Essentials,Luma Edit,Burgundy,8-9Y,689,306.95
+PRD-0310,Kids Casual Dress - Stone / 4-5Y,Kidswear,Kids Essentials,NileThread,Stone,4-5Y,469,218.96
+PRD-0311,Kids Casual Dress - White / 10-11Y,Kidswear,Kids Essentials,NileThread,White,10-11Y,469,217.99
+PRD-0312,Kids Casual Dress - Beige / 12-13Y,Kidswear,Kids Essentials,NileThread,Beige,12-13Y,469,218.78
+PRD-0313,Kids Casual Dress - Chocolate / 12-13Y,Kidswear,Kids Essentials,NileThread,Chocolate,12-13Y,459,214.59
+PRD-0314,Kids Casual Dress - Olive / 6-7Y,Kidswear,Kids Essentials,NileThread,Olive,6-7Y,459,210.98
+PRD-0315,Kids Casual Dress - Grey / 10-11Y,Kidswear,Kids Essentials,NileThread,Grey,10-11Y,469,218.05
